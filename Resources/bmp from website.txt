@@ -1,0 +1,14 @@
+1:
+http://www.mike.kennelly.dsl.pipex.com/railroads/images/tga/heightmap/mesa_heightmap.jpg
+
+http://www.mike.kennelly.dsl.pipex.com/railroads/tga_heightmap.htm
+
+2:
+http://terrafgen.free.fr/Downloads/Final.jpg
+
+http://terrafgen.free.fr/macros.php
+
+3:
+http://johnflower.org/sites/default/files/tutorial/make-mountains-blender-height-maps/mt-ruapehu-and-mt-ngauruhoe.png
+
+http://johnflower.org/tutorial/make-mountains-blender-height-maps
